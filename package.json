@@ -1,0 +1,17 @@
+{
+  "name": "com.aefoniq.bulkrename",
+  "version": "0.1.0",
+  "displayName": "Bulk Rename",
+  "description": "A simple Unity Editor tool to bulk rename children of GameObjects with prefix and index formatting.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Shams Parvez Arka",
+    "email": "parvez6826@gmail.com"
+  },
+  "keywords": [
+    "editor",
+    "bulk",
+    "rename",
+    "utility"
+  ]
+}
