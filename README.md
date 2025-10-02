@@ -1,5 +1,7 @@
 # Unity Package - Bulk Rename
+
 > Watch this [video demo](link)
+
 A simple Unity Editor tool to bulk rename children of GameObjects with prefix 
 and index formatting.
 
